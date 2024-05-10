@@ -1,6 +1,6 @@
 # Projeto EBOOK Gerado por I.A.s
 
-> ℹ️ **NOTE:** Este repositório foi desenvolvido durante o Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me)
+> ℹ️ **NOTE:** Este repositório foi desenvolvido durante o Bootcamp Santander 2024 da plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
